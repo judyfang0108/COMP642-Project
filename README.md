@@ -54,3 +54,5 @@ pip install numpy pandas opencv-python pillow matplotlib seaborn scikit-learn te
 Each notebook includes detailed steps and code cells for detailed visualizations of the training process, including loss and accuracy plots, as well as confusion matrices and classification reports to evaluate the model performance.
 
 Run each cell in the notebooks to move through the process from data loading to model evaluation.
+
+For the complete analysis and additional details, refer to the full Jupyter Notebook or the report pdf available in the repository.
